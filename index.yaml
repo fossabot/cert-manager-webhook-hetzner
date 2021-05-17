@@ -3,7 +3,17 @@ entries:
   cert-manager-webhook-hetzner:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-05-14T19:59:11.462262163Z"
+    created: "2021-05-17T05:38:03.409490811Z"
+    description: Allow cert-manager to solve DNS challenges using Hetzner DNS API
+    digest: dd5b4d987f6cea620efd4367cf9d47d502d99f1b501d9be0155b38d15bddaae1
+    icon: https://deyaeddin.me/logo.png
+    name: cert-manager-webhook-hetzner
+    urls:
+    - cert-manager-webhook-hetzner-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-05-17T05:38:03.409028973Z"
     description: Allow cert-manager to solve DNS challenges using Hetzner DNS API
     digest: 5e40ae68666c98deaf75bf93b1c8ec2c9979c6db1b3bceee41d637295e067f9c
     icon: https://deyaeddin.me/logo.png
@@ -13,7 +23,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-05-14T19:59:11.461897443Z"
+    created: "2021-05-17T05:38:03.408425123Z"
     description: Allow cert-manager to solve DNS challenges using Hetzner DNS API
     digest: 057899c6a46df0064828d525985773dee53801a7c0f8713b63e837c821387fd7
     icon: https://deyaeddin.me/logo.png
@@ -23,7 +33,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-05-14T19:59:11.461394115Z"
+    created: "2021-05-17T05:38:03.407867476Z"
     description: Allow cert-manager to solve DNS challenges using Hetzner DNS API
     digest: df02c6dc2a921d2c824b08571dccba2dc1e354e8c121f1924ec2d746fcf0a829
     icon: https://deyaeddin.me/logo.png
@@ -33,7 +43,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-05-14T19:59:11.460913588Z"
+    created: "2021-05-17T05:38:03.40731713Z"
     description: Allow cert-manager to solve DNS challenges using Hetzner DNS API
     digest: 0826fd219e0e11d179b187fe40dd8f359d1f7d338a32dea3b47257df3de7395b
     icon: https://deyaeddin.me/logo.png
@@ -41,4 +51,4 @@ entries:
     urls:
     - cert-manager-webhook-hetzner-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-14T19:59:11.460253451Z"
+generated: "2021-05-17T05:38:03.406264443Z"
